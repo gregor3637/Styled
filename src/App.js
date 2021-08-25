@@ -8,6 +8,8 @@ import ContactPage from "./Pages/ContactPage";
 import PortfoliosPage from "./Pages/PortfoliosPage";
 import ResumePage from "./Pages/ResumePage";
 
+//https://youtu.be/tiOChpaiFBc?t=11693
+
 function App() {
   return (
     <div className="App">
